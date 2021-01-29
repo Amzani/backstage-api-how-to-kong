@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "How to use Kong"
+  description: "How to use Kong"
+  annotations:
+    github.com/project-slug: Amzani/backstage-api-how-to-kong
+    backstage.io/techdocs-ref: url:https://github.com/Amzani/backstage-api-how-to-kong
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "Samir"

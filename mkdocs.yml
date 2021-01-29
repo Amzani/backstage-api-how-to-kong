@@ -1,0 +1,8 @@
+site_name: "How to use Kong"
+site_description: "How to use Kong"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
